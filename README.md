@@ -1,1 +1,1 @@
-# Santranc-c-programming
+# chess-c-programming
